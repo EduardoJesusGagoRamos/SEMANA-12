@@ -1,8 +1,8 @@
 //EJERCICIO 8.4
 /* Crear una lista circular con palabras leídas del teclado. El programa debe tener un conjunto
 de opciones:
-• Mostrar las cadenas que forman la lista.
-• Borrar una palabra dada.
+• Mostrar las cadenas que forman la lista
+• Borrar una palabra dada
 • Al terminar la ejecución, recorrer la lista eliminando los nodos
  */
 package listaCircularPalabra;
