@@ -1,7 +1,7 @@
 //EJERCICIO 8.3
 /* Crear una lista doblemente enlazada con números enteros, del 1 al 999, generados aleatoriamente.
 Una vez creada la lista, se eliminan los nodos que estén fuera de un rango de valores leídos desde
-el teclado.
+el teclado
  */
 package listaDobleEnlace;
 // @autor GAGO RAMOS EDUARDO JESÚS
